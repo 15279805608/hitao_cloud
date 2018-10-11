@@ -55,5 +55,6 @@
 		<module>hitao_authc</module>
 		<module>hitao_gateway</module>
 		<module>hitao_system</module>
+		<module>hitao_commons</module>
 	</modules>
 </project>
